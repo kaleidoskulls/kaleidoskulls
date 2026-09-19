@@ -16,3 +16,16 @@
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5ez1i200cqxxvkdwhlshthajx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00ffff&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<br>
+<details>
+  <summary></summary>
+  family as emojis
+  <br>
+<img width="200" height="200" alt="1000199793" src="https://github.com/user-attachments/assets/4c627fe4-321d-408f-b8c2-96c2c500db1f" />
+<img width="200" height="200" alt="1000199792" src="https://github.com/user-attachments/assets/b7f7d8c6-6c60-41a6-aecc-712413153496" />
+<img width="200" height="200" alt="1000199790" src="https://github.com/user-attachments/assets/5cf408f2-bdca-4665-8482-d5c3cf382ddd" />
+<img width="200" height="200" alt="1000199791" src="https://github.com/user-attachments/assets/165fa9b3-dfbe-4607-913a-984e46f1be27" />
+<img width="200" height="200" alt="1000199794" src="https://github.com/user-attachments/assets/84f6e7e9-eaa5-4172-93aa-e7790cd030a6" />
+<img width="200" height="200" alt="1000199795" src="https://github.com/user-attachments/assets/c5a64f70-f015-40c7-b018-df12130f9b66" />
+<img width="200" height="200" alt="1000199796" src="https://github.com/user-attachments/assets/1093e65d-a929-4b0e-acdc-b18dc2913e28" />
+</details>
